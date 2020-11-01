@@ -25,8 +25,8 @@ The optimisation problem can be stated as:
 
 where <img src="https://render.githubusercontent.com/render/math?math=j=1...n"> is the set of all riders
 
-$x_j$ is a binary decision variable denoting if rider $j$ is chosen (1 for chosen, 0 for not chosen)
+<img src="https://render.githubusercontent.com/render/math?math=x_j"> is a binary decision variable denoting if rider <img src="https://render.githubusercontent.com/render/math?math=j"> is chosen (1 for chosen, 0 for not chosen)
 
-$z_j$ and $y_j$ are the cost and score of rider $j$ respectively
+<img src="https://render.githubusercontent.com/render/math?math=z_j">$$ and <img src="https://render.githubusercontent.com/render/math?math=y_j"> are the cost and score of rider <img src="https://render.githubusercontent.com/render/math?math=j"> respectively
 
-$a_j$, $c_j$, $s_j$ and $u_j$ are binary values denoting if rider $j$ is an All-Rounder, Climber, Sprinter or Unclassed respectively
+<img src="https://render.githubusercontent.com/render/math?math=a_j">,<img src="https://render.githubusercontent.com/render/math?math=c_j">,<img src="https://render.githubusercontent.com/render/math?math=s_j"> and <img src="https://render.githubusercontent.com/render/math?math=u_j"> are binary values denoting if rider <img src="https://render.githubusercontent.com/render/math?math=j"> is an All-Rounder, Climber, Sprinter or Unclassed respectively
