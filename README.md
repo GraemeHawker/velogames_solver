@@ -12,7 +12,7 @@ At the end of the race, each rider will have accumulated a score based on their 
 
 The optimisation problem can be stated as:
 
-$maximise \sum_{j=1}^{n} x_j y_j$
+<img src="https://render.githubusercontent.com/render/math?math=maximise \sum_{j=1}^{n} x_j y_j">
 
 $s.t.$ 
 
