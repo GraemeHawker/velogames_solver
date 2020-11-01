@@ -14,21 +14,16 @@ The optimisation problem can be stated as:
 
 <img src="https://render.githubusercontent.com/render/math?math=maximise \sum_{j=1}^{n} x_j y_j">
 
-$s.t.$ 
+<img src="https://render.githubusercontent.com/render/math?math=s.t.">
 
-$\sum_{j=1}^{n} x_j=9$
+<img src="https://render.githubusercontent.com/render/math?math=\sum_{j=1}^{n} x_j=9">
+<img src="https://render.githubusercontent.com/render/math?math=\sum_{j=1}^{n} c_j z_j \leq 100">
+<img src="https://render.githubusercontent.com/render/math?math=\sum_{j=1}^{n} c_j a_j \geq 2">
+<img src="https://render.githubusercontent.com/render/math?math=\sum_{j=1}^{n} c_j c_j \geq 2">
+<img src="https://render.githubusercontent.com/render/math?math=\sum_{j=1}^{n} c_j s_j \geq 1">
+<img src="https://render.githubusercontent.com/render/math?math=\sum_{j=1}^{n} c_j u_j \geq 3">
 
-$\sum_{j=1}^{n} c_j z_j \leq 100$
-
-$\sum_{j=1}^{n} c_j a_j \geq 2$
-
-$\sum_{j=1}^{n} c_j c_j \geq 2$
-
-$\sum_{j=1}^{n} c_j s_j \geq 1$
-
-$\sum_{j=1}^{n} c_j u_j \geq 3$
-
-where $j=1...n$ is the set of all riders
+where <img src="https://render.githubusercontent.com/render/math?math=j=1...n"> is the set of all riders
 
 $x_j$ is a binary decision variable denoting if rider $j$ is chosen (1 for chosen, 0 for not chosen)
 
